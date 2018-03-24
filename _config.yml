@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: John Doe
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -74,6 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+# theme_style is default to 'light'
+# theme-style: light
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
