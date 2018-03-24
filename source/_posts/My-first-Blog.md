@@ -4,4 +4,11 @@ date: 2018-03-24 11:56:25
 tags:
 ---
 
+# My first Blood
+
+```java
+public static void main(String[] args){
+    
+}
+```
 
